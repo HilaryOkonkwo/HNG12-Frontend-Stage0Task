@@ -79,7 +79,7 @@ View the Profile Card (Replace with actual hosted URL)
 
 
 
-Blog Post URL: https://dev.to/somtoochukwu/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-4k0l
+Blog Post URL: [Click Link](https://dev.to/somtoochukwu/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-4k0l)
 
 Profile Card URL: [Click Link](https://hng-12-frontend-stage0-task.vercel.app/)
 
